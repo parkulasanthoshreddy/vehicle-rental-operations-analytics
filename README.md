@@ -126,25 +126,3 @@ I practiced cleaning data, handling timestamps, creating analytical features, ca
 
 It also helped me understand the importance of connecting technical analysis with business questions. A useful analysis should not only explain what the data shows but also identify which questions deserve further investigation.
 
-## Project Files
-
-```text
-vehicle-rental-operations-analytics/
-│
-├── README.md
-├── notebooks/
-│   └── vehicle_rental_analysis.ipynb
-├── sql/
-│   └── analysis_queries.sql
-├── images/
-│   └── analysis_visualizations.png
-└── requirements.txt
-```
-
-This is the proposed repository structure. The folders and files should be added as they are prepared.
-
-## A Note About the Dataset
-
-This project uses rental data associated with a vehicle rental case study. It is an independent analytical project and is not an official company publication.
-
-Before publishing the project, I will make sure that the dataset and any associated results can be shared publicly.
